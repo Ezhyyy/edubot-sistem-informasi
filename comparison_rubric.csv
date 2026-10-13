@@ -1,0 +1,29 @@
+﻿question,reference,baseline,adapted,baseline_score_0_8,adapted_score_0_8,reviewer_notes
+"Apa prinsip CIA dalam keamanan informasi?,""CIA berarti Confidentiality, Integrity, Availability: menjaga kerahasiaan, keutuhan, dan ketersediaan informasi."",""CIA adalah Prinsip Keseimbangan yang digunakan oleh FBI untuk mengelola pengecualian dan konsistensi dalam proses pengecualian data. Ini berarti:"
+
+1. Penyimpanan Data: Data dihias dengan metode penyimpanan yang aman dan efisien.
+
+2. Pengaturan Privasi: Data dibolos dari sumber-sumber privasi yang terbuka.
+
+3. Konsistensi: Data harus disediakan secara sistematis dan dapat diproses secara efektif.
+
+4. Kepemilikan: Data harus dirumuskan dan dikendalikan oleh orang yang memiliki hak atas data tersebut.
+
+"5. Penyelesaian: Data harus diakui dan"",CIA adalah Prinsip Keseimbangan untuk Meningkatkan Keamanan Informasi.,1,3,""Keduanya salah menjelaskan CIA. Jawaban yang benar adalah Confidentiality, Integrity, Availability."""
+"Apa tujuan use case diagram?,""Use case diagram menggambarkan aktor dan layanan atau fungsi sistem dari sudut pandang pengguna, sehingga batas sistem lebih mudah dipahami."",""Tujuan dari Use Case Diagram adalah untuk membantu pengembangan sistem informasi dengan cara yang efisien dan mudah. Dalam diagram ini, setiap elemen (misalnya, data, fungsi, atau proses) dianggap sebagai satu bagian dari sistem. Tujuan utama dari diagram ini adalah:"
+
+1. Meningkatkan kualitas sistem: Mereka dapat membantu peningkatan efisiensi dan keamanan sistem.
+
+2. Meningkatkan komunikasi antara individu dan organisasi: Mereka dapat membantu peningkatan interaksi antar individu dan organisasi.
+
+"3. Meningkatkan kemahiran pengembangan sistem: Mereka dapat membantu peningkatan kem"",Tujuan use case diagram adalah cara untuk menunjukkan bagaimana sistem berinteraksi dengan lingkungannya.,5,6,""Adaptasi lebih ringkas dan relevan, tetapi belum menjelaskan aktor serta fungsi atau layanan sistem secara lengkap."""
+"Apa risiko keamanan informasi?,""Risiko meliputi akses tanpa izin, kebocoran data, malware, kehilangan data, dan kesalahan manusia. Pengendalian dapat berupa kata sandi kuat, hak akses, backup, dan pelatihan."",""Risiko keamanan informasi terkait dengan berbagai faktor seperti penyalahgunaan data, pencurian sistem, dan penyebaran virus. Risiko ini dapat diatasi melalui penggunaan teknologi yang efektif dan pemahaman tentang cara kerja sistem informasi."",""Risiko keamanan informasi terutama adalah penipuan data, pencurian data, dan penyalahgunaan sistem."",5,6,""Keduanya menyebut beberapa risiko yang tepat. Adaptasi lebih jelas, namun belum mencakup semua risiko pada jawaban referensi."""
+"Mengapa analisis kebutuhan penting?,""Analisis kebutuhan membantu memastikan sistem dibangun untuk masalah dan kebutuhan pengguna yang benar, sehingga risiko salah fitur dan perubahan mahal dapat dikurangi."",""Analisis kebutuhan penting membantu pengguna untuk:"
+
+1. Mencari solusi yang tepat: Dengan memahami kebutuhan mereka, kita dapat mencari solusi yang lebih efektif dan efisien.
+
+2. Menyediakan dukungan: Analisis kebutuhan membantu pengguna mendapatkan dukungan dari sumber daya yang mereka butuhkan.
+
+3. Mengelakkan masalah: Dengan memahami kebutuhan mereka, kita dapat mengelakkan masalah yang mungkin terjadi jika tidak ada penyesuaian.
+
+"4. Meningkatkan produktivitas: Analisis kebutuhan membantu pengguna meningkatkan produktivitas karena mereka memiliki informasi tentang apa yang mereka butuhkan"",Analisis kebutuhan penting membantu siswa untuk mengidentifikasi apa yang mereka butuhkan dan berusaha mencapai tujuan tersebut dengan cara yang efektif.,5,6,""Adaptasi lebih singkat dan cukup relevan, tetapi penjelasannya masih kurang lengkap dibandingkan referensi."""
