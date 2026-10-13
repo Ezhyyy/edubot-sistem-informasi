@@ -67,21 +67,6 @@ UTS/
 
 ---
 
-## 🔄 Alur Kerja (Pipeline) Proyek
-
-```mermaid
-flowchart TD
-    A[Dataset Q&A JSONL] --> B[Data Preprocessing & Chat Template]
-    B --> C[Train-Test Split: 80% / 20%]
-    C --> D[Uji Baseline Qwen 0.5B pada Test Set]
-    C --> E[LoRA Training dengan HuggingFace Trainer]
-    E --> F[Simpan Adapter LoRA & Tokenizer]
-    F --> G[Inferensi Model Adaptasi pada Test Set]
-    D --> H[Komparasi & Evaluasi Rubrik Manual]
-    G --> H
-    G --> I[Deploy Antarmuka Gradio ChatInterface]
-```
-
 1. **Penyusunan Dataset (`edubot_si_qa.jsonl`):**
    - Berisi pasang tanya-jawab konsep fundamental Sistem Informasi (SDLC, Normalisasi, UML Use Case, DBMS, CIA Triad, ERP, Etika AI di kampus).
    - Memakai format terstruktur: `system`, `user`, dan `assistant`.
