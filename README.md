@@ -192,12 +192,3 @@ print("Jawaban EduBot:", ask_edubot(pertanyaan))
 3. **Privasi & Keamanan:** Hindari memasukkan data rahasia institusi, nomor identitas pribadi, atau password ke dalam prompt obrolan.
 
 ---
-
-## 👨‍💻 Informasi Pengembang & Akademik
-
-- **Mahasiswa:** *[Ezhy / Isi Nama Lengkap]*
-- **NIM:** *[Isi NIM]*
-- **Mata Kuliah:** Sistem Informasi berbasis Kecerdasan Buatan
-- **Semester:** 3 (Ganjil / Genap)
-- **Dosen Pengampu:** *[Isi Nama Dosen]*
-- **Tahun Akademik:** 2024 / 2025
